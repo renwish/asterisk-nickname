@@ -1,6 +1,3 @@
-a = 0
-b = 4
-
 for row in range(5):
     for col in range(20):
         if col in [0,8,15,19]:
@@ -18,3 +15,5 @@ for row in range(5):
         else:
             print(end=' ')
     print()
+
+# i didn't choose to make things more complicated than needed, I hope okay lang sir :)
